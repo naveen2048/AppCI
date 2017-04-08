@@ -12,7 +12,7 @@ namespace AppCI.Controllers
     // GET api/<controller>
     public IEnumerable<string> Get( )
     {
-      return new string [ ] { "value1" , "value2" };
+      return new string [ ] { "Naveen" , "Meesala" };
     }
 
     // GET api/<controller>/5
